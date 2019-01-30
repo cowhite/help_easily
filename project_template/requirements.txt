@@ -1,0 +1,6 @@
+Django==2.1.5
+django-cors-headers==2.4.0
+django-templated-mail==1.1.1
+djangorestframework==3.9.1
+djoser==1.4.0
+pytz==2018.9
